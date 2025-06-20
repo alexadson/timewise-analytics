@@ -1,9 +1,0 @@
-[package]
-name = "timewise_analytics"
-version = "0.1.0"
-edition = "2021"
-authors = [" Alex Adson <alexadson111@gmail.com>"]
-description = "Módulo de regressão linear para análise de séries temporais"
-license = "MIT"
-
-[dependencies]

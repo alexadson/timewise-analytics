@@ -1,0 +1,8 @@
+[package]
+name = "timewise_analytics"
+version = "0.1.0"
+edition = "2021"
+description = "Projeto simples de regressão linear para séries temporais"
+license = "MIT"
+
+[dependencies]
