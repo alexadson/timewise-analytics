@@ -1,4 +1,3 @@
-TimeWise Analytics
 TimeWise Analytics é um projeto simples e educacional em Rust, desenvolvido para aplicar regressão linear em séries temporais de forma eficiente, sem o uso de bibliotecas externas.
 
 Este projeto foi pensado para fins acadêmicos, trabalhos de faculdade ou primeiros contatos com algoritmos de análise de dados em Rust.
